@@ -35,11 +35,13 @@
     Survival and drug response prediction for BRCA patients
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Vidhi Malik »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Yogesh Kalakoti</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Yogesh Kalakoti</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Durai Sundar</a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">DAILAB, Indian Institute of Technology, Delhi</a>
 
   </p>
 </p>
