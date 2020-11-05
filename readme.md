@@ -27,18 +27,15 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <h3 align="center">BRCA Mutiliomics</h3>
+  <h3 align="center">BRCA Multiomics</h3>
 
   <p align="center">
     Survival and drug response prediction for BRCA patients
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Vidhi Malik »</strong></a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>Yogesh Kalakoti<strong></a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>Durai Sundar<strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>Yogesh Kalakoti »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>Durai Sundar »</strong></a>
     <br />
     DAILAB, Indian Institute of Technology, Delhi
 
