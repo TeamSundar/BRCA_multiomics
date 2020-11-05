@@ -29,19 +29,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BRCA Mutiliomics</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Survival and drug response prediction for BRCA patients
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Vidhi Malik »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Yogesh Kalakoti</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Durai Sundar</a>
+
   </p>
 </p>
 
