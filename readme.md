@@ -33,9 +33,9 @@
   <p align="center">
     Survival and drug response prediction for BRCA patients
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Vidhi Malik »</strong></a>
-    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>Yogesh Kalakoti »</strong></a>
-    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>Durai Sundar »</strong></a>
+    <a href="https://github.com/TeamSundar/BRCA_multiomics"><strong>Vidhi Malik »</strong></a>
+    <a href="https://github.com/TeamSundar/BRCA_multiomics"><strong>Yogesh Kalakoti »</strong></a>
+    <a href="https://github.com/TeamSundar/BRCA_multiomics"><strong>Durai Sundar »</strong></a>
     <br />
     DAILAB, Indian Institute of Technology, Delhi
 
@@ -63,22 +63,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+This workflow evaluates the utility of an integrative multi-omics framework employing the recent advances in statistics and machine learning to estimate clinical outcomes in Breast cancer (BRCA) patients. A neural net workflow capable of quantifying survival and drug response along with identifying critical biomarkers was stringenltly optimized for roubusteness. The presented results demonstrates the effectiveness of our models in terms of sensitivity, specificity, accuracy among others. Moreover, conventional linear prediction models for data integration are limited due to steep dimensionality and heterogeneity associated with omics datasets. To mitigate theis drawback, we established a viable multi omics integration stratergy that can also be used in numerous scenarios other than just survival and drug response prediction. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Key highlights:
+* Integration framework for multi omics data
+* Workflow for predicting survival in BRCA patients
+* Workflow for predicting drug responses for 100 drugs :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Our workflows can provide immense utility in improving personalized theraputic options and assisting clinicians in making rational decisions. 
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Tensorflow](https://getbootstrap.com)
+* [MATLAB](https://jquery.com)
+* [Python](https://laravel.com)
 
 
 
